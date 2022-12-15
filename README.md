@@ -1,2 +1,2 @@
 # TechLab
-Home of innovations
+Home of Tech Automations
